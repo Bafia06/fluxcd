@@ -6,5 +6,5 @@ spec:
   chartRef:
     kind: OCIRepository
     name: podinfo
-    namespace: flux-system
+    namespace: nginx
   interval: 10m
